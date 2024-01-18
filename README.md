@@ -1,2 +1,5 @@
 # Hellarin_microservices
-Hellarin microservices repository
+
+## ДЕ-12-13 ##
+
+сделаны задания без звездочек 
