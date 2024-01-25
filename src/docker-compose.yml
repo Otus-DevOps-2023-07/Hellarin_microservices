@@ -1,4 +1,5 @@
 version: '3.3'
+
 services:
   db:
     image: mongo:4
@@ -46,4 +47,3 @@ volumes:
 networks:
   reddit_front:
   reddit_back:
-  
